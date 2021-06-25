@@ -1,0 +1,2 @@
+rootProject.name = "auth_v1"
+include ':app'
